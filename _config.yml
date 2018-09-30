@@ -1,0 +1,33 @@
+title: sometimesmoon
+description: 
+
+url: https://sometimesmoon.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   # url: /index.html
+   url: /about
+ - title: About
+   url: /about
+ # - title: Publications
+ #   url: /publications
+# - title: Contact
+#   url: /contact
+ # - title: Blog
+ #   url: /_posts
+
+social:
+   github: sometimesmoon
+   # twitter: brianmaierjr
+   # facebook: brianmaierjr
+   email: sometimesmoon.com@gmail.com
+
+google_analytics: ""
