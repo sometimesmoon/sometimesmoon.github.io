@@ -1,12 +1,13 @@
 ---
 layout: default
-title: About sometimesmoon
+title: about sometimesmoon
 ---
 
 <div class="post">
-	<h2 class="pageTitle">About</h2>
+	<h2 class="pageTitle">about sometimesmoon</h2>
 
-  <p class="intro"><b>sometimesmoon</b>></p>
+  <p class="intro"><b>가끔 달을 찍습니다</b></p>
+
 <!--   <p class="intro"><b>sometimesmoon</b> is currently a postdoctoral researcher at Yonsei University, Korea. And he is a member of <a href="http://mcml.yonsei.ac.kr/" target="_blank">Multimedia Computing and Machine Learning (MCML) Group</a>, which is led by Prof. Jong-Seok Lee.</p> -->
 <!-- 
   <h3>Research Interests</h3>
